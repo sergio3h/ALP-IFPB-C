@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1701982978 source:c:\users\olive\onedrive\documentos\ads\alp\prova301\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

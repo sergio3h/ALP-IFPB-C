@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1693055322 source:c:\users\olive\onedrive\documentos\ads\alp\comprimentopalavra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1693056458 source:c:\users\olive\onedrive\documentos\ads\alp\kesimaletra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

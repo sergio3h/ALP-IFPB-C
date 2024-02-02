@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1700261605 source:c:\users\olive\onedrive\documentos\ads\alp\provfab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1702065018 source:c:\users\olive\onedrive\documentos\ads\alp\273\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
